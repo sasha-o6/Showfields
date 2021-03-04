@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175" height="176.75" viewBox="0 0 175 176.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a5afc2;
+        fill-opacity: 0.6;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Triangle" class="cls-1" d="M259.965,1497.25L84.976,1560.12l27.992-176.74Z" transform="translate(-84.969 -1383.38)"/>
+</svg>
